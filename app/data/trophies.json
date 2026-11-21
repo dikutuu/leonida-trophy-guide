@@ -1,392 +1,797 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "Earn the other 54 trophies to become a Leonida Legend. Use the unearned filter to finish the remaining objectives; playtime and minimum playthrough requirements remain unconfirmed.",
+      "kind": "misc",
+      "stage": 5,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Complete Gone Fishing. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 1. This unlock belongs at the completion of the named chapter. Exact mission prerequisites and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 1
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 2. This unlock belongs at the completion of the named chapter. Exact mission prerequisites and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 2
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 3. This unlock belongs at the completion of the named chapter. Exact mission prerequisites and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 3
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 4. This unlock belongs at the completion of the named chapter. Exact mission prerequisites and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 4
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Complete the final mission. This requirement belongs at the end of the main story. Exact mission prerequisites and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "Complete Breakfast Run. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Complete The Cartel Heist. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Complete Child's Play. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Complete Headliners. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Complete VCIA Takedown. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Complete Operation Savage Glory. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Reach 100% completion using the game's completion display when available. The description does not specify which tasks contribute, so collecting all other trophies should not be assumed sufficient. Required activities and story prerequisites remain unconfirmed.",
+      "kind": "misc",
+      "stage": 5,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 100
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Complete 250 Stunts. Use the manual counter to record progress toward the stated requirement. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 250
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "Try each activity type at least once as activities become available. The description gives no number of activity types, so record the distinct types you encounter. Availability by chapter remains unconfirmed.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Earn a gold medal in every Shooting Range challenge. Track challenges still below gold once the range is accessible; no challenge count is stated. Unlock timing and scoring thresholds remain unconfirmed.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Win a Top Fun Drone Race at every location. Record distinct locations rather than repeated wins at one venue. The location count and story unlock timing remain unconfirmed.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 different races. Track distinct completed objectives rather than assuming repeats qualify. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 20
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Beat Cal in a fishing challenge. The description establishes the objective but does not give an exact route or method. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Complete an arcade game. The description establishes the objective but does not give an exact route or method. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Andy. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Kenton. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Billy. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Complete 8 stranger mission strands across Leonida. Count finished strands rather than individual missions. Chapter requirements and post-story availability remain unconfirmed.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 8
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Randy. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Tyrone. Follow the named mission or character strand to its completion when it becomes available. Exact chapter placement and replay access remain unconfirmed before release.",
+      "kind": "story",
+      "stage": 1,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "Meditate at every spot across Leonida. Record distinct spots as you find them; the description gives no total. Locations and story access restrictions remain unconfirmed.",
+      "kind": "collectible",
+      "stage": 3,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Hunt a unique animal for Bret. The description establishes the objective but does not give an exact route or method. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Complete 3 Collectible Card sets. Count completed sets rather than individual cards. Card sources, set sizes, and story prerequisites remain unconfirmed.",
+      "kind": "collectible",
+      "stage": 3,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 3
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "WAiNK It at 100 locations. Track distinct completed objectives rather than assuming repeats qualify. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "collectible",
+      "stage": 3,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 100
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Complete 50 Challenges. Use the manual counter to record progress toward the stated requirement. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 50
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "Lose a 4 star Wanted Level with your partner and escape the heat. Four is a wanted-level threshold, not a total of escapes; the counter is a manual threshold reference. Partner availability and story prerequisites remain unconfirmed.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 4
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Count shops in the current attempt and reset if the wanted level is lost. Partner availability and qualifying shop types remain unconfirmed.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 3
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Discover 100 vehicles. Track distinct completed objectives rather than assuming repeats qualify. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "collectible",
+      "stage": 3,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 100
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Use the counter for one attempt rather than lifetime takedowns. The ability's story unlock and qualifying takedown rules remain unconfirmed.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 5
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "Make an unscheduled departure at VCIA. The wording does not identify a vehicle, route, or trigger, so no exact solution is confirmed. Story availability remains unconfirmed.",
+      "kind": "misc",
+      "stage": 5,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "The description refers to heat in Rhinos but supplies no explicit action or threshold. Keep this entry for cleanup until its trigger is confirmed. Story timing cannot be established from the supplied wording.",
+      "kind": "misc",
+      "stage": 5,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Rob a jewelry store without being detected. The description establishes the objective but does not give an exact route or method. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Rob 5 Bank Vaults and escape. Finish the escape as well as the robbery before marking it complete. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 5
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Rob an Armored Truck and escape. Finish the escape as well as the robbery before marking it complete. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Explore all of Leonida as the map becomes accessible. The description gives no area count; use in-game exploration indicators if available. The definition of full exploration and story restrictions remain unconfirmed.",
+      "kind": "collectible",
+      "stage": 3,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Rob an Illegal Operation belonging to each gang. Track distinct gangs rather than repeated robberies of one gang. Gang counts, operation locations, and story prerequisites remain unconfirmed.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. The description establishes the objective but does not give an exact route or method. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "Smash your way out of a vehicle showroom in classic style. The description establishes the objective but does not give an exact route or method. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Perform the required follow-through at the Kolt & Associates' bowling alley. The wording does not confirm that simply playing bowling is sufficient. The interaction and story timing remain unconfirmed.",
+      "kind": "activity",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "The description hints at a partnership with mass appeal but gives no concrete action. Keep this entry for cleanup until a verified trigger is available. Chapter placement and partner requirements remain unconfirmed.",
+      "kind": "misc",
+      "stage": 5,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "The description refers to choices made, for better or worse. It gives neither a choice count nor a required branch, so do not assume a 500-choice target or a missable outcome. Trigger and chapter timing remain unconfirmed.",
+      "kind": "misc",
+      "stage": 5,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "The description hints that the second time is the charm. It does not identify an activity or confirm a second attempt as the trigger. Exact steps and story timing remain unconfirmed.",
+      "kind": "misc",
+      "stage": 5,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "The description is cryptic and gives no actionable objective. Keep this unresolved until a verified trigger is available instead of assuming a particular encounter. Location and story timing remain unconfirmed.",
+      "kind": "misc",
+      "stage": 5,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "Bowl 'em over with a melee drive-by. The description establishes the objective but does not give an exact route or method. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Count laundering earnings rather than general income. Contacts, fees, and story prerequisites remain unconfirmed.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 250000
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Spend $100,000 across all shops. Record qualifying spending rather than money earned. Excluded purchases and shop availability during the story remain unconfirmed.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 100000
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Purchase all garage properties as they become available. The description gives no property count, so keep a list of garages purchased. Prices, locations, and story prerequisites remain unconfirmed.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Register 10 vehicles to the Scooter Bros app. Track distinct completed objectives rather than assuming repeats qualify. Story unlock timing and detailed qualifying conditions remain unconfirmed before release.",
+      "kind": "misc",
+      "stage": 4,
+      "missable": false,
+      "sources": [
+        "PlayStation official trophy list",
+        "PSNProfiles trophy list"
+      ],
+      "count": 10
+    }
+  ],
+  "method": "The supplied starter identifies this as the official PlayStation list. Source names are reference labels, not independently verified citations. Guides derive only from supplied descriptions."
 }

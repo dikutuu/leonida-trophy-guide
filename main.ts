@@ -1,3 +1,7 @@
+// LEONIDA LEDGER — an independent GTA VI trophy guide and local progress tracker.
+// An original dark field-guide interface pairs 55 preserved trophy entries with
+// cautious pre-release guidance, source labels, a five-stage roadmap, and backups.
+// The static app has no external runtime dependencies; dossier plumbing is unchanged.
 // A working gta6-trophy-guide-01 entry (Node 22, standard library only): the guide is this directory's app/ folder,
 // plain static files a browser opens at app/index.html (ES modules, CSS, no build step), offline: it loads nothing
 // over the network, and its trophy list and guides are app/data/trophies.json. The program hands it in: it copies app/
